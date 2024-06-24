@@ -11,10 +11,10 @@ This Python script synchronizes the contents of a source folder with a replica f
 
 
 # Arguments
--s or --source: Required. Path to the source folder.
--r or --replica: Required. Path to the replica folder.
--l or --log_file: Optional. Path to the log file. If not provided, logging will be done only to the console.
--i or --interval: Optional. Synchronization interval in seconds. Default is 1 second.
+- -s or --source: Required. Path to the source folder.
+- -r or --replica: Required. Path to the replica folder.
+- -l or --log_file: Optional. Path to the log file. If not provided, logging will be done only to the console.
+- -i or --interval: Optional. Synchronization interval in seconds. Default is 1 second.
 
 
 # Output
